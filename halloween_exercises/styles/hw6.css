@@ -71,6 +71,11 @@ footer p {
 	font-size: 88%;
 	text-align: center;
 }
-main ul {
-    margin-top: 0;
+aside ul {
+    line-height: 1.5;
+}
+aside {
+    float: left;
+    width: 160px;
+    padding: 20px 0;
 }
